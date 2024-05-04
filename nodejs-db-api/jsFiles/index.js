@@ -14,7 +14,7 @@ const connection =  mysql2.createConnection({
    host: "localhost", // 127.0.0.1
    database: "five_db",
    user: "root",
-   password: "TrenA100!!"
+   password: ""
 
 });
 
